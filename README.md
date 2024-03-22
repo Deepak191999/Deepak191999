@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
+<h1 align="center">Hi, I'm Deepak Kumar</h1>
 <h3 align="center">Exploring the Boundaries of MERN Stack Development</h3>
 
 
