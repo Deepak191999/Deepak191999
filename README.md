@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **the ins and outs of the MERN stack!**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, and Git.**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Node.js, React.js and Git.**
 
 - 📫 How to reach me **deep98.r@gmail.com**
 
