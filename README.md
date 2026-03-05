@@ -51,7 +51,10 @@
 ---
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak191999&show_icons=true&locale=en&layout=compact" alt="deepak191999" /></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak191999&layout=compact&show_icons=true&locale=en" alt="deepak191999" />
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=deepak191999&label=Profile%20views&color=0e75b6&style=flat" alt="deepak191999" />
